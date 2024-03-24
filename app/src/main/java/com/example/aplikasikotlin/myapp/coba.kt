@@ -9,7 +9,7 @@ fun makeFish() {
     pleco.eat()
     }
 
-fun main () {
+/*fun main () {
     makeFish()
 }
 fun main() {
